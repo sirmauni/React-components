@@ -1,0 +1,5 @@
+.calcTitle {
+    grid-area: calcTitle;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}

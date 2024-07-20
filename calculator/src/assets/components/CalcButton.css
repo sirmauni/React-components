@@ -1,0 +1,21 @@
+.calcButton {
+    background-color: rgb(124,124,124);
+    border-radius: 100%;
+    color: rgb(200,200,200);
+    font-size: 1em;
+}
+.modBtn {
+    background-color: rgba(200,200,200,255);
+    color: rgb(51,50,51);
+}
+.actionBtn {
+    background-color: rgba(255,159,10,255);
+    color: rgb(255,255,255);
+}
+.defaultBtn {
+    background-color: rgb(51,50,51);
+}
+.dbsBtn {
+    grid-area: dbsBtn;
+    border-radius: 25px;
+}
